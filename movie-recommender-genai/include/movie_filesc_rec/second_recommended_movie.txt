@@ -1,0 +1,10 @@
+10 ::: Predestination ::: Michael Spierig, Peter Spierig ::: A temporal agent embarks on his final mission to stop a mysterious terrorist, encountering shocking truths about identity and time. ::: 2014 ::: Sci-Fi, Thriller
+11 ::: Enemy ::: Denis Villeneuve ::: A man discovers his exact double in a film and becomes obsessed, leading to a psychological unraveling. ::: 2013 ::: Psychological Thriller, Mystery
+12 ::: Timecrimes ::: Nacho Vigalondo ::: A man accidentally travels back in time and must deal with the unintended and increasingly complex consequences. ::: 2007 ::: Sci-Fi, Thriller
+13 ::: The Man Who Fell to Earth ::: Nicolas Roeg ::: An alien arrives on Earth to find water for his dying planet but is corrupted by human greed and desire. ::: 1976 ::: Sci-Fi, Drama
+14 ::: Synecdoche, New York ::: Charlie Kaufman ::: A theater director creates a life-sized replica of New York inside a warehouse, blurring reality and art. ::: 2008 ::: Drama, Experimental
+15 ::: Paprika ::: Satoshi Kon ::: A therapist uses a device that allows people to enter dreams, but chaos erupts when the machine is stolen. ::: 2006 ::: Sci-Fi, Anime
+16 ::: Burning ::: Lee Chang-dong ::: A young man becomes obsessed with a woman and her mysterious new friend, leading to a slow-burning psychological mystery. ::: 2018 ::: Mystery, Drama
+17 ::: Upstream Color ::: Shane Carruth ::: Two people entangled in a life cycle of organisms struggle to rebuild their identities and connection. ::: 2013 ::: Sci-Fi, Experimental
+18 ::: Sound of My Voice ::: Zal Batmanglij ::: A couple infiltrates a cult led by a woman who claims to be from the future, testing their beliefs and trust. ::: 2011 ::: Thriller, Drama
+19 ::: Solaris ::: Andrei Tarkovsky ::: A psychologist is sent to a space station orbiting a mysterious planet that materializes people from his memories. ::: 1972 ::: Sci-Fi, Philosophical Drama

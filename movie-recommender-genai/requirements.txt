@@ -1,0 +1,5 @@
+weaviate-client>=4.5.5
+fastembed
+torch
+ipython
+

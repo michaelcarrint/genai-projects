@@ -1,0 +1,10 @@
+0 ::: Children of Men ::: Alfonso Cuarón ::: In a dystopian future where humans have become infertile, a disillusioned bureaucrat must escort a miraculously pregnant woman to safety. ::: 2006 ::: Sci-Fi, Thriller
+1 ::: Arrival ::: Denis Villeneuve ::: A linguist is recruited to communicate with aliens who have arrived on Earth, revealing a new perception of time and humanity. ::: 2016 ::: Sci-Fi, Drama
+2 ::: The Fall ::: Tarsem Singh ::: In a 1920s hospital, a stuntman tells a fantastical story to a little girl, blending fiction and reality in visually stunning ways. ::: 2006 ::: Fantasy, Drama
+3 ::: The Handmaiden ::: Park Chan-wook ::: In Japanese-occupied Korea, a conman and a pickpocket plan to defraud a rich heiress, but betrayal and love complicate everything. ::: 2016 ::: Psychological Thriller, Romance
+4 ::: Coherence ::: James Ward Byrkit ::: A group of friends experience a reality-bending night when a comet passes overhead, leading to parallel timelines. ::: 2013 ::: Sci-Fi, Mystery
+5 ::: The Man from Earth ::: Richard Schenkman ::: A retiring professor reveals to his colleagues that he’s a 14,000-year-old immortal, sparking philosophical debates. ::: 2007 ::: Sci-Fi, Drama
+6 ::: Stalker ::: Andrei Tarkovsky ::: A guide leads two men through a forbidden zone that supposedly grants one’s innermost desires. ::: 1979 ::: Sci-Fi, Art House
+7 ::: Perfect Blue ::: Satoshi Kon ::: A retired pop singer’s identity unravels when she pursues an acting career, blurring the line between fiction and madness. ::: 1997 ::: Psychological Thriller, Anime
+8 ::: A Ghost Story ::: David Lowery ::: A recently deceased ghost silently observes the passage of time and human life from the house he once occupied. ::: 2017 ::: Drama, Fantasy
+9 ::: Moon ::: Duncan Jones ::: A man nearing the end of his 3-year lunar mining contract begins to unravel the truth about his mission and identity. ::: 2009 ::: Sci-Fi, Mystery
