@@ -52,17 +52,28 @@ movie-recommender-genai/
    git clone https://github.com/your-username/genie-projects.git
    cd genie-projects/movie-recommender-genai
 
-Create a virtual environment and activate it:
-python -m venv venv
-source venv/bin/activate   # Mac/Linux
-venv\Scripts\activate      # Windows
-Install dependencies:
-pip install -r requirements.txt
-Run the app:
-python main.py
+2. **Create a virtual environment and activate it**:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # Mac/Linux
+   venv\Scripts\activate      # Windows
+   ```
+
+3. **Install dependencies**:
+  ```bash
+     pip install -r requirements.txt
+  ```
+  
+4. **Run the app**:
+  ```bash
+     python main.py
+  ```
 Example query (inside main.py):
-query_str = "Show me recent sci-fi thrillers"
-📝 Example Output
+  ```
+     query_str = "Show me recent sci-fi thrillers"
+  ```
+## 📝 Example Output:
+```bash
 
 ==================================================
 🎬 Title: Dune: Part Two
@@ -72,29 +83,41 @@ fulfill his destiny on Arrakis.
 📅 Year: N/A
 🎭 Genre: 
 ==================================================
-🎉 What I Learned
 
-Setting up a RAG pipeline end-to-end
-Using Weaviate for storing and querying vector embeddings
-Applying BAAI/bge-small-en-v1.5 to embed movie descriptions
-Designing simple GenAI applications for real-world use cases
-📌 Notes
+==================================================
+🎬 Title: Perfect Blue
+🎥 Director: Satoshi Kon
+📜 Description: A retired pop singer’s identity unravels when she pursues an acting career, blurring the line between fiction and madness.
+📅 Year: 1997.0
+🎭 Genre: P, s, y, c, h, o, l, o, g, i, c, a, l,  , T, h, r, i, l, l, e, r, ,,  , A, n, i, m, e
+==================================================
+```
+
+## 🎉 What I Learned
+
+- Setting up a RAG pipeline end-to-end
+- Using Weaviate for storing and querying vector embeddings
+- Applying BAAI/bge-small-en-v1.5 to embed movie descriptions
+- Designing simple GenAI applications for real-world use cases
+
+## 📌 Notes
 
 This project is meant for learning purposes and can be extended with:
 
-🎁 More metadata like year, genre, rating
-🖥️ Front-end integration (e.g., Streamlit app)
-🔍 Multi-query or chat-based interactions
-🙋‍♂️ About Me
+- 🎁 More metadata like year, genre, rating
+- 🖥️ Front-end integration (e.g., Streamlit app)
+- 🔍 Multi-query or chat-based interactions
 
-I'm learning how to orchestrate GenAI applications step by step, applying 
+## 🙋‍♂️ About Me
+
+I'm learning how to orchestrate **GenAI applications** step by step, applying 
 concepts like RAG, embeddings, and vector databases through small 
 projects.
 
-⭐️ Acknowledgements
+## ⭐️ Acknowledgements
 
 Inspired by:
 
-DeepLearning.AI - Orchestrating GenAI Workflows
-Open-source tools like Weaviate, FastEmbed, and BAAI embeddings
+- DeepLearning.AI - Orchestrating GenAI Workflows
+- Open-source tools like Weaviate, FastEmbed, and BAAI embeddings
 
